@@ -1,7 +1,7 @@
 # app_2
 
 A new Flutter project.
-
+This project was based off the flutter demo. The calculator app that was developed based on it is called app_2
 ## Getting Started
 
 This project is a starting point for a Flutter application.
